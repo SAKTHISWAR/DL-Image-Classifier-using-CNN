@@ -42,7 +42,7 @@ Plot training/validation loss and accuracy curves.
 Optionally, display a confusion matrix or sample predictions.
 
 
-### Name: SAKTHOSWAR S
+### Name: SAKTHISWAR S
 ### Register Number: 212222230127
 
 ## PROGRAM
